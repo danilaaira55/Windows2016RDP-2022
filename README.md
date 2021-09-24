@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=Free+Windows+2022+VPS;Subscribe+To+Techconi+RDP+GRATIS+;See+You+next+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=Free+Windows+2022+VPS;Subscribe+To+Techconi+RDP+GRATIS+;See+You+Next+Time)](https://git.io/typing-svg)
 # Windows2022RDP-US
 Windows Server 2022 Github with RDP Access (ngrok AP) 
 Repo link: https://github.com/mrX04/Windows2019RDP-US
@@ -13,4 +13,4 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Press Add secret
 + Go to Action> CI> Run workflow
 + Reload the page and press CI> build
-+ Press the down arrow on Connect To Your RPD to get IP, User, Password.
++ Press the down arrow on Connect To Your RDP to get IP, User, Password.
