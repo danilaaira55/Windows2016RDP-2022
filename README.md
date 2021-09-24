@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Free+Windows+RDP%2FVPS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=Free+Windows+2022+VPS;Subscribe+To+Techconi+RDP+GRATIS+;See+You+next+Time)](https://git.io/typing-svg)
 # Windows2022RDP-US
 Windows Server 2022 Github with RDP Access (ngrok AP) 
 Repo link: https://github.com/mrX04/Windows2019RDP-US
